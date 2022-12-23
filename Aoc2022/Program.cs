@@ -1,0 +1,20 @@
+﻿using Aoc2022.Day._01;
+using Aoc2022.Day._02;
+using Aoc2022.Day._03;
+using Aoc2022.Day._04;
+using Aoc2022.Day._05;
+using Aoc2022.Day._06;
+using Aoc2022.Day._07;
+
+_01AB.Do();
+_02A.Do();
+_02B.Do();
+_03A.Do();
+_03B.Do();
+_04A.Do();
+_04B.Do();
+_05A.Do();
+_05B.Do();
+_06A.Do();
+_06B.Do();
+_07A.Do();
